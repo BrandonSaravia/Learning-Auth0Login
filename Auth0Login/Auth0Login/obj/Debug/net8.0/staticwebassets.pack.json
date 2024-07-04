@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BPSar\\source\\Learning\\Auth0\\Auth0Login\\Auth0Login\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Auth0Login.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Auth0Login.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\BPSar\\source\\Learning\\Auth0\\Auth0Login\\Auth0Login\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\BPSar\\source\\Learning\\Auth0\\Auth0Login\\Auth0Login\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BPSar\\source\\Learning\\Auth0\\Auth0Login\\Auth0Login\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BPSar\\source\\Learning\\Auth0\\Auth0Login\\Auth0Login\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Auth0Login.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Auth0Login.props",
+      "PackagePath": "build\\Auth0Login.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Auth0Login.props",
+      "PackagePath": "buildMultiTargeting\\Auth0Login.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Auth0Login.props",
+      "PackagePath": "buildTransitive\\Auth0Login.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
